@@ -16,4 +16,4 @@ White corp. 2013 !
 Get in touch  !
 
 
-<a href="facebook.com/whitelpkorn>Facebook></a>
+<a href="facebook.com/whitelpkorn">Facebook</a>
